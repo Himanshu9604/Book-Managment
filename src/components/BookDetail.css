@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.BookDetail {
+  background-image: url("https://images.unsplash.com/photo-1487147264018-f937fba0c817?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJvb2slMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  color: #333; 
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color:#333
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); 
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #666;
+}
+
+strong {
+  font-weight: bold;
+  color: #444;
+}
+
+
+Link {
+  text-decoration: none;
+  background-color: #007bff; 
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+Link:hover {
+  background-color: #0056b3; 
+}

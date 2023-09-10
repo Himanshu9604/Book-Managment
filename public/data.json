@@ -1,0 +1,342 @@
+[
+  {
+
+        "id": "1",
+
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "imageLink": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/f6358f28-cbc4-4bc4-a79f-b3b75e750c3b/Gone%20Girl%20book%20cover.jpg?w=270&h=414&auto=format&bg=%23efefef&fit=crop",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+    "pages": 209,
+    "title": "Things Fall Apart",
+    "year": 1958
+  },
+  {
+        "id": "2",
+
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781035005383.jpg",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1836
+  },
+  {
+        "id": "3",
+
+    "author": "Dante Alighieri",
+    "country": "Italy",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781509828029.jpg",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+    "pages": 928,
+    "title": "The Divine Comedy",
+    "year": 1315
+  },
+  {
+    "id":"4",
+    "author": "Unknown",
+    "country": "Sumer and Akkadian Empire",
+    "imageLink": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/c5e43e56-3d81-4b2f-bbe6-52c11767ef05/Murder%20on%20the%20Orient%20Express.jpg?w=270&h=435&auto=format&bg=%23efefef&fit=crop",
+    "language": "Akkadian",
+    "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+    "pages": 160,
+    "title": "The Epic Of Gilgamesh",
+    "year": -1700
+  },
+  {
+    "id":"5",
+    "author": "Unknown",
+    "country": "Achaemenid Empire",
+    "imageLink": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/26d82867-811e-4f0d-bd0a-44b8ab6db1a0/Tinker%2C%20tailor%2C%20Soldier%2C%20Spy%20cover.jpg?w=270&h=413&auto=format&bg=%23efefef&fit=crop",
+    "language": "Hebrew",
+    "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+    "pages": 176,
+    "title": "The Book Of Job",
+    "year": -600
+  },
+  {
+    "id":"6",
+    "author": "Unknown",
+    "country": "India/Iran/Iraq/Egypt/Tajikistan",
+    "imageLink": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/214987a8-3e12-4d57-b6ea-a72fcafc054d/A%20Brief%20History%20of%20Time.jpg?w=270&h=424&auto=format&bg=%23efefef&fit=crop",
+    "language": "Arabic",
+    "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+    "pages": 288,
+    "title": "One Thousand and One Nights",
+    "year": 1200
+  },
+  {
+    "id":"7",
+    "author": "Unknown",
+    "country": "Iceland",
+    "imageLink": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/deb7ecfa-73a7-4ef3-bc74-c89e1e606979/How%20to%20Win%20Friends%20and%20Influence%20People.jpg?w=270&h=438&auto=format&bg=%23efefef&fit=crop",
+    "language": "Old Norse",
+    "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
+    "pages": 384,
+    "title": "Nj\u00e1l's Saga",
+    "year": 1350
+  },
+  {
+    "id":"8",
+    "author": "Jane Austen",
+    "country": "United Kingdom",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781509843183.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+    "pages": 226,
+    "title": "Pride and Prejudice",
+    "year": 1813
+  },
+  {
+        "id": "9",
+
+    "author": "Honor\u00e9 de Balzac",
+    "country": "France",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781447285830.jpg",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+    "pages": 443,
+    "title": "Le P\u00e8re Goriot",
+    "year": 1835
+  },
+  {
+    "id":"10",
+    "author": "Samuel Beckett",
+    "country": "Republic of Ireland",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781035020157.jpg",
+    "language": "French, English",
+    "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+    "pages": 256,
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "year": 1952
+  },
+  {
+    "id":"11",
+    "author": "Giovanni Boccaccio",
+    "country": "Italy",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781529019292.jpg",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+    "pages": 1024,
+    "title": "The Decameron",
+    "year": 1351
+  },
+  {
+    "id":"12",
+    "author": "Jorge Luis Borges",
+    "country": "Argentina",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781529077162.jpg",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/Ficciones\n",
+    "pages": 224,
+    "title": "Ficciones",
+    "year": 1965
+  },
+  {
+        "id": "13",
+
+    "author": "Emily Bront\u00eb",
+    "country": "United Kingdom",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781529077261.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+    "pages": 342,
+    "title": "Wuthering Heights",
+    "year": 1847
+  },
+  {
+    "id":"14",
+    "author": "Albert Camus",
+    "country": "Algeria, French Empire",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781529077216.jpg",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
+    "pages": 185,
+    "title": "The Stranger",
+    "year": 1942
+  },
+  {
+    "id":"15",
+    "author": "Paul Celan",
+    "country": "Romania, France",
+    "imageLink": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/fc8d7134-edee-4218-b88d-12f62b958678/The%20God%20of%20Small%20Things%20cover.jpg?w=270&h=407&auto=format&bg=%23efefef&fit=crop",
+    "language": "German",
+    "link": "\n",
+    "pages": 320,
+    "title": "Poems",
+    "year": 1952
+  },
+  {
+    "id":"16",
+    "author": "Louis-Ferdinand C\u00e9line",
+    "country": "France",
+    "imageLink": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/1e2eb579-a28e-402d-b169-d6c0602422d3/americanah.jpg?w=270&h=414&auto=format&bg=%23efefef&fit=crop",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
+    "pages": 505,
+    "title": "Journey to the End of the Night",
+    "year": 1932
+  },
+  {
+        "id": "17",
+
+    "author": "Miguel de Cervantes",
+    "country": "Spain",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781035007790.jpg",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/Don_Quixote\n",
+    "pages": 1056,
+    "title": "Don Quijote De La Mancha",
+    "year": 1610
+  },
+  {
+    "id":"18",
+    "author": "Geoffrey Chaucer",
+    "country": "England",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781509844760.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+    "pages": 544,
+    "title": "The Canterbury Tales",
+    "year": 1450
+  },
+  {
+    "id":"19",
+    "author": "Anton Chekhov",
+    "country": "Russia",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781509827800.jpg",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
+    "pages": 194,
+    "title": "Stories",
+    "year": 1886
+  },
+  {
+    "id":"20",
+    "author": "Joseph Conrad",
+    "country": "United Kingdom",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781529034523.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Nostromo\n",
+    "pages": 320,
+    "title": "Nostromo",
+    "year": 1904
+  },
+  {
+        "id": "21",
+
+    "author": "Charles Dickens",
+    "country": "United Kingdom",
+    "imageLink": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/7472d124-7003-4da6-aadd-a1b9211bf387/Beloved%20cover.jpg?w=270&h=417&auto=format&bg=%23efefef&fit=crop",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
+    "pages": 194,
+    "title": "Great Expectations",
+    "year": 1861
+  },
+  {
+    "id":"22",
+    "author": "Denis Diderot",
+    "country": "France",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9780330463294.jpg",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
+    "pages": 596,
+    "title": "Jacques the Fatalist",
+    "year": 1796
+  },
+  {
+    "id":"23",
+    "author": "Alfred D\u00f6blin",
+    "country": "Germany",
+    "imageLink": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/e8558d18-8830-4b16-92bb-c133a924a95b/birdsong-min.jpg?w=270&h=413&auto=format&bg=%23efefef&fit=crop",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
+    "pages": 600,
+    "title": "Berlin Alexanderplatz",
+    "year": 1929
+  },
+  {
+    "id":"24",
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781509811304.jpg",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
+    "pages": 551,
+    "title": "Crime and Punishment",
+    "year": 1866
+  },
+  {
+    "id":"25",
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781529083477.jpg",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
+    "pages": 656,
+    "title": "The Idiot",
+    "year": 1869
+  },
+  {
+        "id": "26",
+
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781509811304.jpg",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
+    "pages": 768,
+    "title": "The Possessed",
+    "year": 1872
+  },
+  {
+    "id":"27",
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781529083415.jpg",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
+    "pages": 824,
+    "title": "The Brothers Karamazov",
+    "year": 1880
+  },
+  {
+    "id":"28",
+    "author": "George Eliot",
+    "country": "United Kingdom",
+    "imageLink": "https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-171/edition/9781509886531.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Middlemarch\n",
+    "pages": 800,
+    "title": "Middlemarch",
+    "year": 1871
+  },
+  {
+    "id":"29",
+    "author": "Ralph Ellison",
+    "country": "United States",
+    "imageLink": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/bd2df7f8-42ad-4c40-9a26-b101a581c583/the-handmaids-tale.jpg?w=270&h=414&auto=format&bg=%23efefef&fit=crop",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
+    "pages": 581,
+    "title": "Invisible Man",
+    "year": 1952
+  },
+  {
+    "id":"30",
+    "author": "Euripides",
+    "country": "Greece",
+    "imageLink": "https://assets-eu-01.kc-usercontent.com/bcd02f72-b50c-0179-8b4b-5e44f5340bd4/a7098cce-bb23-408f-b5ab-c7468eb2fecc/Never%20Let%20Me%20Go%20cover.jpg?w=270&h=414&auto=format&bg=%23efefef&fit=crop",
+    "language": "Greek",
+    "link": "https://en.wikipedia.org/wiki/Medea_(play)\n",
+    "pages": 104,
+    "title": "Medea",
+    "year": -431
+  }
+  
+]
